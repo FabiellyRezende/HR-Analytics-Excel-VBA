@@ -90,27 +90,27 @@ Interface principal do projeto, funcionando como central de navegação entre as
 
 ### Master
 
-![Master](screenshots/Master.png)
+![Master](imagens/Master.png)
 
 ### Employee Data
 
-![Employee Data](screenshots/employee-data.png)
+![Employee Data](imagens/employee-data.png)
 
 ### Employee Search
 
-![Employee Search](screenshots/employee-search.png)
+![Employee Search](imagens/employee-search.png)
 
 ### Employee Filter
 
-![Employee Filter](screenshots/employee-filter.png)
+![Employee Filter](imagens/employee-filter.png)
 
 ### HR Analysis
 
-![HR Analysis](screenshots/hr-analysis.png)
+![HR Analysis](imagens/hr-analysis.png)
 
 ### HR Dashboard
 
-![HR Dashboard](screenshots/hr-dashboard.png)
+![HR Dashboard](imagens/hr-dashboard.png)
 
 ---
 
