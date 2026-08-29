@@ -99,25 +99,25 @@ Interface principal do projeto, funcionando como central de navegação entre as
 ### HR Analysis
 
 <p align="center">
-  <img src="imagens/hr-analysis.png" alt="HR Analysis" width="550">
+  <img src="imagens/hr-analysis.png" alt="HR Analysis" width="650">
 </p>
 
 ### HR Dashboard
 
 <p align="center">
-  <img src="imagens/hr-dashboard.png" alt="HR Dashboard" width="550">
+  <img src="imagens/hr-dashboard.png" alt="HR Dashboard" width="650">
 </p>
 
 ### Employee Search
 
 <p align="center">
-  <img src="imagens/employee-search.png" alt="Employee Search" width="200">
+  <img src="imagens/employee-search.png" alt="Employee Search" width="300">
 </p>
 
 ### Employee Filter
 
 <p align="center">
-  <img src="imagens/employee-filter.png" alt="Employee Filter" width="200">
+  <img src="imagens/employee-filter.png" alt="Employee Filter" width="300">
 </p>
 ---
 
