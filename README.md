@@ -88,30 +88,37 @@ Interface principal do projeto, funcionando como central de navegação entre as
 
 ## 🖥️ Interface
 
+## 📸 Project Preview
+
 ### Master
 
-![Master](imagens/Master.png)
-
-### Employee Data
-
-![Employee Data](imagens/employee-data.png)
-
-### Employee Search
-
-![Employee Search](imagens/employee-search.png)
-
-### Employee Filter
-
-![Employee Filter](imagens/employee-filter.png)
+<p align="center">
+  <img src="imagens/master.png" alt="HR Analytics Master" width="550">
+</p>
 
 ### HR Analysis
 
-![HR Analysis](imagens/hr-analysis.png)
+<p align="center">
+  <img src="imagens/hr-analysis.png" alt="HR Analysis" width="550">
+</p>
 
 ### HR Dashboard
 
-![HR Dashboard](imagens/hr-dashboard.png)
+<p align="center">
+  <img src="imagens/dashboard.png" alt="HR Dashboard" width="550">
+</p>
 
+### Employee Search
+
+<p align="center">
+  <img src="imagens/employee-search.png" alt="Employee Search" width="400">
+</p>
+
+### Employee Filter
+
+<p align="center">
+  <img src="imagens/employee-filter.png" alt="Employee Filter" width="400">
+</p>
 ---
 
 ## 🛠️ Tecnologias utilizadas
