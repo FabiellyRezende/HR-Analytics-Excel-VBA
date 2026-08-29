@@ -1,5 +1,3 @@
-# HR-Analytics-Excel-VBA
-Projeto de HR Analytics desenvolvido em Excel e VBA com dados fictícios.
 # HR Analytics — Excel & VBA
 
 Projeto de **HR Analytics desenvolvido em Microsoft Excel e VBA**, utilizando uma base de dados fictícia para demonstrar recursos de automação, análise de dados, pesquisa e filtragem de funcionários e visualização de indicadores.
