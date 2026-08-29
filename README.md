@@ -94,10 +94,17 @@ Interface principal do projeto, funcionando como central de navegação entre as
   <img src="imagens/Master.png" alt="HR Analytics Master" width="550">
 </p>
 
+### EmployeeData
+
+<p align="center">
+  <img src="imagens/employee-data.png" alt="HR Analytics Master" width="650">
+</p>
+
+
 ### HR Analysis
 
 <p align="center">
-  <img src="imagens/hr-analysis.png" alt="HR Analysis" width="650">
+  <img src="imagens/hr-analysis.png" alt="HR Analysis" width="750">
 </p>
 
 ### HR Dashboard
