@@ -93,7 +93,7 @@ Interface principal do projeto, funcionando como central de navegação entre as
 ### Master
 
 <p align="center">
-  <img src="imagens/master.png" alt="HR Analytics Master" width="550">
+  <img src="imagens/Master.png" alt="HR Analytics Master" width="550">
 </p>
 
 ### HR Analysis
@@ -105,19 +105,19 @@ Interface principal do projeto, funcionando como central de navegação entre as
 ### HR Dashboard
 
 <p align="center">
-  <img src="imagens/dashboard.png" alt="HR Dashboard" width="550">
+  <img src="imagens/hr-dashboard.png" alt="HR Dashboard" width="550">
 </p>
 
 ### Employee Search
 
 <p align="center">
-  <img src="imagens/employee-search.png" alt="Employee Search" width="400">
+  <img src="imagens/employee-search.png" alt="Employee Search" width="200">
 </p>
 
 ### Employee Filter
 
 <p align="center">
-  <img src="imagens/employee-filter.png" alt="Employee Filter" width="400">
+  <img src="imagens/employee-filter.png" alt="Employee Filter" width="200">
 </p>
 ---
 
